@@ -1,0 +1,4 @@
+# Snake Game dependencies
+
+turtle
+python>=3.8
