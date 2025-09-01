@@ -36,4 +36,4 @@ git clone https://github.com/your-username/Snake-with-Bot-Game.git
 cd Snake-with-Bot-Game
 
 # Run the game
-python main.py
+ python main.py
